@@ -1,0 +1,24 @@
+.typeahead {
+  width: 800px;
+  margin: 10px auto 0 auto;
+}
+
+.search-header {
+  padding: 10px;
+  color: grey;
+}
+
+.search-input {
+  padding: 10px;
+  width: 100%;
+}
+
+.suggestion {
+  border: 1px solid red;
+  margin-top: 10px;
+  min-height: 100px;
+  position: relative;
+  margin-left: 9%;
+  width: 91%;
+  height: 400px;
+}
